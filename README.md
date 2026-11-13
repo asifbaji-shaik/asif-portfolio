@@ -4,10 +4,13 @@
 
 > A modern, responsive personal portfolio website designed to showcase my technical skills, software development projects, educational background, internship experience, and professional contact information.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://asif-portfolio-green.vercel.app/)
 [![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-5-purple?logo=vite)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+🌐 **Live Website:** [https://asif-portfolio-green.vercel.app/](https://asif-portfolio-green.vercel.app/)
 
 ---
 
@@ -132,6 +135,7 @@ npm run preview
 **Shaik Asif Baji**
 - **Title:** Full Stack Developer | AI/ML Enthusiast
 - **Education:** B.Tech in Computer Science and Engineering, SRM AP University
+- **Website:** [https://asif-portfolio-green.vercel.app/](https://asif-portfolio-green.vercel.app/)
 - **Email:** [asifbajishaik33@gmail.com](mailto:asifbajishaik33@gmail.com)
 - **GitHub:** [https://github.com/asifbaji-shaik](https://github.com/asifbaji-shaik)
 - **LinkedIn:** [https://www.linkedin.com/in/shaik-asif-baji-135490240/](https://www.linkedin.com/in/shaik-asif-baji-135490240/)
